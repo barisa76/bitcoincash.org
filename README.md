@@ -1,5 +1,5 @@
 # bitcoincash
-
+https://blockchain.info/payment_request?address=328KptEkgzEGuQtNNiERrPnkzfyUpDAcbn&amount=0.1
 This is the repository for [bitcoincash.org](https://bitcoincash.org). As the Bitcoin Cash community expands, we hope that many will participate and improve this project over time.
 
 Build & Run the Docker Image
